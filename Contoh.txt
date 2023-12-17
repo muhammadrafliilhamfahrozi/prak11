@@ -1,0 +1,5 @@
+joni 75 80 65
+edwin 85 85 90
+reina 50 80 60
+daniel 90 85 95
+zachy 50 80 50
